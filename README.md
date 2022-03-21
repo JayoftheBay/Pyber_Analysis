@@ -8,26 +8,26 @@ Here are the results that we were able to conclude:
  
 ### Rideshare Data by City Type
  * Rural
-    > Total Rides = 125
-    > Total Drivers = 78
-     - Average # of rides per Driver = 1.6
-    > Total Fares = $4327.93
-    > Average Fare per Ride = $34.62
-    > Average Fare Per Driver = $55.49
+    - Total Rides = 125
+    - Total Drivers = 78
+     > Average # of rides per Driver = 1.6
+    - Total Fares = $4327.93
+    - Average Fare per Ride = $34.62
+    - Average Fare Per Driver = $55.49
  * Suburban
-    > Total Rides = 625
-    > Total Drivers = 490
-     - Average # of rides per Driver = 1.27
-    > Total Fares = $19,356.33
-    > Average Fare per Ride = $30.97
-    > Average Fare Per Driver = $39.50
+    - Total Rides = 625
+    - Total Drivers = 490
+     > Average # of rides per Driver = 1.27
+    - Total Fares = $19,356.33
+    - Average Fare per Ride = $30.97
+    - Average Fare Per Driver = $39.50
  * Urban
-    > Total Rides = 1625
-    > Total Drivers = 2405
-     - Average # of rides per Driver = .67
-    > Total Fares = $39,854.38
-    > Average Fare per Ride = $24.53
-    > Average Fare Per Driver = $16.57
+    - Total Rides = 1625
+    - Total Drivers = 2405
+     > Average # of rides per Driver = .67
+    - Total Fares = $39,854.38
+    - Average Fare per Ride = $24.53
+    - Average Fare Per Driver = $16.57
  
 ### Rideshare Fare data over time
 ![Rideshare](PyBer_fare_summary.png)
